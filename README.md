@@ -1,7 +1,7 @@
 # **LendingClubCaseStudy-EDA-project-1-Loan-Procurement-analysis**
 
 Working in Consumer Finance Company which specialise lending loans to urban customers 
-(https://github.com/snehaljadhav2283/Loan_CaseStudy_EDA/blob/m/Loan_image.png)
+![Loan_EDA_Project](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
 
 ## Table of Contents
 * [General Info](#general-information)
