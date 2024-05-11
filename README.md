@@ -2,6 +2,9 @@
 
 Working in Consumer Finance Company which specialise lending loans to urban customers 
 
+[
+](https://github.com/snehaljadhav2283/Loan_CaseStudy_EDA/blob/m/Loan_image.png)
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
