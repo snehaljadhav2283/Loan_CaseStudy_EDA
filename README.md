@@ -1,5 +1,5 @@
 # **LendingClubCaseStudy-EDA-project-1-Loan-Procurement-analysis**
-> Outline a brief description of your project.
+
 Working in Consumer Finance Company which specialise lending loans to urban customers 
 
 ## Table of Contents
