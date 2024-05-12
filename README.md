@@ -36,6 +36,7 @@ Working in Consumer Finance Company which specialise lending loans to urban cust
   * No of attributes
   * The Data includes both categorical and numeric values, providing a diverse range of information about the listings.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Understanding the files and folder structure
 
 ## Conclusions
 - Conclusion 1 from the analysis
