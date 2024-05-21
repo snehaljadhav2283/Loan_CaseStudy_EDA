@@ -51,6 +51,9 @@ Working in Consumer Finance Company which specialise lending loans to urban cust
 
 ## Conclusions
 
+Following are the patterns of applicants with
+probability of being a defaulter in future
+
 - With home ownership as 'MORTGAGE'
 - Having loan at interest rate of >15%
 - Falling in grade F and G with sub grades in Fs and Gs
