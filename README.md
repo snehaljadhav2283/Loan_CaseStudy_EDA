@@ -43,9 +43,9 @@ Working in Consumer Finance Company which specialise lending loans to urban cust
 
 ## Understanding the files and folder structure
 
-#### Python notebook file: `Group_Facilitator_Name.ipynb`
+#### Python notebook file: `Group_Facilitator_Shrey.ipynb`
 
-#### PPT Document in PDF file: `Group_Facilitator_Name.pdf`
+#### PPT Document in PDF file: `Group_Facilitator_Shrey.pdf`
 
 #### Readme file: `README.md`
 
