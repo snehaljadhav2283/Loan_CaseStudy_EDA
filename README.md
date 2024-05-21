@@ -1,4 +1,4 @@
-# **LendingClubCaseStudy-EDA-project-1-Loan-Procurement-analysis**
+# **Lending Club Case Study - EDA - Loan Defaulter probability analysis**
 
 Working in Consumer Finance Company which specialise lending loans to urban customers
 ![Loan_EDA_Project](Loan_image.png)
